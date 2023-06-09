@@ -1,1 +1,1 @@
-# digit-recognizer-webapp
+Recognizing number using ML models
